@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Desenvolver é aquela hora que você conta estorias, ou histórias, para os "ouvintes" dessa colossal rede pessoas-- e máquinas...
+        Desenvolver é aquela hora que você conta estorias, ou histórias, para os "ouvintes" dessa colossal rede de pessoas-- e máquinas...
       </>
     ),
   },
