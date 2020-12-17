@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'Meu site',
+  title: 'Meu Jeferson Lopes',
   tagline: 'Escrevo para homens e para máquinas.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'jefersonlopesl', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Meu site',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Meu site',
         src: 'img/logo.svg',
       },
       links: [
@@ -22,7 +22,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/jefersonlopesl',
           label: 'GitHub',
           position: 'right',
         },
@@ -49,15 +49,15 @@ module.exports = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://jefersonlopesl.com/questions/tagged/docusaurus',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discordapp.com/invite/jefersonlopesl',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/jefersonlopesl',
             },
           ],
         },
@@ -70,7 +70,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/jefersonlopesl',
             },
           ],
         },
