@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Meu Jeferson Lopes',
+  title: 'Jeferson Lopes',
   tagline: 'Escrevo para homens e para máquinas.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
