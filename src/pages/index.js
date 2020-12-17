@@ -8,32 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
+    title: <>Criar histórias</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Desenvolver é aquela hora que você conta estorias, ou histórias, para os "ouvintes" dessa colossal rede pessoas-- e máquinas...
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
+    title: <>Tudo fica melhor com cores e imagens</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Preto e branco é chique, mas!, dependendo dos nossos planos, às vezes as cores e visuias atraentes são um convite!
       </>
     ),
   },
   {
-    title: <>Powered by React</>,
+    title: <>Programar é como Lego</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+As peças se encaixam, dá pra fazer de várias formas, misturar bem as coisas e no final temos algo para nos orgulhar :)
       </>
     ),
   },

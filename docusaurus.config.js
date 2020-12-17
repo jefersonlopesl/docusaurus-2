@@ -8,9 +8,9 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Meu site',
+      title: 'Ínicio',
       logo: {
-        alt: 'Meu site',
+        alt: 'Ínicio',
         src: 'img/logo.svg',
       },
       links: [
@@ -75,7 +75,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Jeferson Lopes, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
