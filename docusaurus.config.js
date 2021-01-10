@@ -15,7 +15,7 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/doc1',
+          to: 'docs/contato',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
