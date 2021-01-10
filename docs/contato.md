@@ -7,3 +7,7 @@ sidebar_label: Style Guide
 ## Whatsapp
 
 **(11)** _9_ 4327-7944
+
+:::note
+Por favor, seja sucinto ;)
+:::
