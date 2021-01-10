@@ -6,4 +6,4 @@ sidebar_label: Style Guide
 
 ## Whatsapp
 
-<p>*(11)* _9_ 4327-7944</p>
+**(11)** _9_ 4327-7944
