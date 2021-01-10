@@ -8,7 +8,8 @@ sidebar_label: Style Guide
 
 >Desenvolvo sites em diversas línguas de programação, usando os mais inovadores e recentes recursos.
 
-### **(11)** _9_ 4327-7944
+<style>p{color:green;}</style>
+### * **(11)** _9_ 4327-7944*
 
 :::note
 Por favor, seja sucinto ;)
