@@ -30,7 +30,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-As peças se encaixam, dá pra fazer de várias formas, misturar bem as coisas e no final temos algo para nos orgulhar :)
+As peças se encaixam, dá pra fazer de várias formas; misturar bem as coisas e, no final, temos algo para nos orgulhar :)
       </>
     ),
   },
