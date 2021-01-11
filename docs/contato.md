@@ -1,5 +1,5 @@
 ---
-id: Contato
+id: contato
 title: Entre em contato
 sidebar_label: Style Guide
 ---
