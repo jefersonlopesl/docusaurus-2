@@ -45,11 +45,11 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Social',
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://jefersonlopesl.com/questions/tagged/docusaurus',
+              href: 'https://stackoverflow.com/users/14622854/jeferson-lopes',
             },
             {
               label: 'Discord',
